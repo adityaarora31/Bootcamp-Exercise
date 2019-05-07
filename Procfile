@@ -1,1 +1,1 @@
-web: gunicorn DeployProject.wsgi
+web gunicorn DeployProject.wsgi
