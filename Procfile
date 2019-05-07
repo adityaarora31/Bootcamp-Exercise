@@ -1,1 +1,1 @@
-web: gunicorn DeployProject.wsgi
+web: gunicorn Bootcamp-Exercise.DeployProject. DeployProject.wsgi
